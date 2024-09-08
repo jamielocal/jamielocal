@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Multiple Projects, Like Syx, And Others In Python<br>👯 I’m looking to collaborate on Nothing As of Now<br>🤝 I’m looking for help with Python Projects<br>🌱 I’m currently learning C, Java and More Advanced Python<br>⚡ Fun fact, I Own jqm1e.xyz, And modmcbe.xyz
+🔭 I’m currently working on Multiple Projects, Like Syx, And Others In Python<br>👯 I’m looking to collaborate on Nothing As of Now<br>🤝 I’m looking for help with Python Projects<br>🌱 I’m currently learning Rust and More Advanced Python<br>⚡ Fun fact, I Own jqm1e.xyz, And modmcbe.xyz
 
 
 ## 🌐 Socials:
